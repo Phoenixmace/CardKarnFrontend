@@ -1,4 +1,4 @@
-# CardKarnFrontend
+# Card Karn Frontend
 
 ## Docs
 
